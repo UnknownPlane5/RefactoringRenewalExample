@@ -18,7 +18,7 @@ namespace LegacyRenewalApp
                 new CustomerRepository(),
                 new SubscriptionPlanRepository(),
                 new LegacyBillingGatewayAdapter(),
-                new CountryTaxCalculator(),
+                new CountryTaxCalculator(), 
                 new IDiscountRule[] { new SegmentDiscountRule(), new LoyaltyYearsDiscountRule(), new SeatCountDiscountRule() },
                 new SupportFeeCalculator(),
                 new PaymentFeeCalculator())

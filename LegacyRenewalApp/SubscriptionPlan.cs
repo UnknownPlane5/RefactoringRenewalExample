@@ -7,12 +7,6 @@ namespace LegacyRenewalApp
         public decimal MonthlyPricePerSeat { get; set; }
         public decimal SetupFee { get; set; }
         public bool IsEducationEligible { get; set; }   
-        public enum PlanCodes
-        {
-            START,
-            PRO,
-            ENTERPRISE
-        }
-
+        
     }
 }
