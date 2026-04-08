@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s34208\\.nuget\\packages\\": {},
+    "C:\\Users\\damia\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s34208\\Downloads\\zadanie_refactoring_renewal\\zadanie_refactoring_renewal\\LegacyRenewalApp\\LegacyRenewalApp.csproj",
+      "projectUniqueName": "C:\\Users\\damia\\RiderProjects\\RefactoringRenewalExample\\LegacyRenewalApp\\LegacyRenewalApp.csproj",
       "projectName": "LegacyRenewalApp",
-      "projectPath": "C:\\Users\\s34208\\Downloads\\zadanie_refactoring_renewal\\zadanie_refactoring_renewal\\LegacyRenewalApp\\LegacyRenewalApp.csproj",
-      "packagesPath": "C:\\Users\\s34208\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s34208\\Downloads\\zadanie_refactoring_renewal\\zadanie_refactoring_renewal\\LegacyRenewalApp\\obj\\",
+      "projectPath": "C:\\Users\\damia\\RiderProjects\\RefactoringRenewalExample\\LegacyRenewalApp\\LegacyRenewalApp.csproj",
+      "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\damia\\RiderProjects\\RefactoringRenewalExample\\LegacyRenewalApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\s34208\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,12 +67,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.25, 8.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.25, 8.0.25]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.25, 8.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\damia\\.dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

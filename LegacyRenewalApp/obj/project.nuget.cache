@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "28nI8OEnZbE=",
+  "dgSpecHash": "LfUpid2j+50=",
   "success": true,
-  "projectFilePath": "C:\\Users\\s34208\\Downloads\\zadanie_refactoring_renewal\\zadanie_refactoring_renewal\\LegacyRenewalApp\\LegacyRenewalApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\damia\\RiderProjects\\RefactoringRenewalExample\\LegacyRenewalApp\\LegacyRenewalApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damia\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
